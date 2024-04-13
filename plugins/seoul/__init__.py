@@ -1,0 +1,2 @@
+from seoul.seoul_city_extractor import SeoulCityExtractor
+
