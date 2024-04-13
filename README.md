@@ -4,3 +4,4 @@
 - Decorator / Closure 동시 사용을 통한 Task 구현
 
 ## Figure
+![image](./README_ASSETS/task_figure.png)
